@@ -1,3 +1,9 @@
+# Deprecated
+
+Has moved to https://github.com/realitydeslab/transvision
+<br>
+<br>
+---
 ## What is EchoVision
 
 EchoVision is an AR mobile application where users' voices are visually represented in the surrounding environment, simulating the echolocation system of bats. This allows users to experience what it feels like to be a bat. <br>
